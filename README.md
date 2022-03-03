@@ -5,3 +5,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=hey+dude!;My+name+is+Ryan%2C+and+I'm+a+software+developer">
 </div>
     
+
+</div>
+  
+  ### 🀄 About Me 🀄
+ 
+```
+   Me = {
+            Skills: "improving Back-end and Front-end",
+        Main_Langs: "Python, HTML, CSS",
+      Casual_Langs: "C", 
+         Web_Langs: "PHP , SQL",
+              Tech: "Git, Docker, NodeJs",
+                SO: "Windows",
+    };
+
+```
+
