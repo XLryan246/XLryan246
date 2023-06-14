@@ -13,10 +13,9 @@
 ```
    Me = {
             Skills: "improving Back-end and Front-end",
-        Main_Langs: "Python, React, Node, TypeScript",
-      Casual_Langs: "C", 
-              Tech: "Git, Docker, NodeJs",
-                SO: "Windows"
+        Main_Langs: "Python, React, Node, TypeScript, SQL, noSQL",
+              Tech: "Git, NodeJs",
+                SO: "Windows, Linux" 
     };
 
 ```
