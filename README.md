@@ -13,8 +13,8 @@
 ```
    Me = {
             Skills: "improving Back-end and Front-end",
-        Main_Langs: "Python, React, Node, TypeScript, SQL, noSQL",
-              Tech: "Git, NodeJs",
+        Main_Langs: "JavaScript, TypeScript, React, Python, SQL, noSQL",
+              Tech: "Git, Node",
                 SO: "Windows, Linux" 
     };
 
